@@ -1,2 +1,5 @@
-# learn-u-a-typedracket
-Learn You a Typed Racket For Great Good
+# Learn You a Typed Racket For Great Good
+Follow chapters from http://learnyouahaskell.com/chapters
+
+- [x] Starting Out
+
