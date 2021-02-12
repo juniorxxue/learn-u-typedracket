@@ -5,4 +5,5 @@ Follow chapters from http://learnyouahaskell.com/chapters
 - [x] Types and Typeclasses
 - [x] Syntax in Functions
 - [x] Recursion
+- [x] Higher Order Functions
 
