@@ -1,9 +1,19 @@
-# Learn You a Typed Racket For Great Good
-Follow chapters from http://learnyouahaskell.com/chapters
+# Racket Snippets
 
-- [x] Starting Out
-- [x] Types and Typeclasses
-- [x] Syntax in Functions
-- [x] Recursion
-- [x] Higher Order Functions
+Learn Racket or other stuff using Racket
 
+## [Learn You Haskell](http://learnyouahaskell.com/chapters)
+
+A taste of type system from classic Haskell textbook.
+
+- Starting Out
+- Types and Typeclasses
+- Syntax in Functions
+- Recursion
+- Higher Order Functions
+
+## [Fear of Macros](https://www.greghendershott.com/fear-of-macros/index.html)
+
+Continuously conquer the fear of macros
+
+- Fear of Macros
